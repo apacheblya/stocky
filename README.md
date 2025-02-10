@@ -15,7 +15,11 @@
 1. Клонируйте репозиторий:
    ```bash
    git clone https://github.com/apacheblya/stocky.git
+2. Установка зависимостей:
+   ```bash
    pip install -r requirements.txt
+3. Запуск программы: 
+   ```bash
    python stocky.py
 
 Связь со мной: TG: @vl8dysl8v, DS: @.apache1337
