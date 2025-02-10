@@ -22,4 +22,4 @@
    ```bash
    python stocky.py
 
-Связь со мной: TG: @vl8dysl8v, DS: @.apache1337
+## Связь со мной: TG: @vl8dysl8v, DS: @.apache1337
