@@ -20,6 +20,6 @@
    pip install -r requirements.txt
 3. Запуск программы: 
    ```bash
-   python stocky.py
+   python main.py
 
 ## Связь со мной: TG: @vl8dysl8v, DS: @.apache1337
